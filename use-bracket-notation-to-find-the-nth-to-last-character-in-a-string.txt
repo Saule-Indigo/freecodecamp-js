@@ -1,0 +1,8 @@
+// Setup
+const lastName = "Lovelace";
+
+// Only change code below this line
+const secondToLastLetterOfLastName = "c"; // Change this line
+
+const firstName = "Augusta";
+const thirdToLastLetter = firstName[firstName.length - 3];
